@@ -1,0 +1,235 @@
+/***********************************body**********************************/
+body{
+  background-color: white;
+  margin: 0;
+}
+.in{
+  color:#189AB4;
+  font-family: 'Merienda', cursive;
+}
+.ind{
+  font-size: 1em;
+  text-align: center;
+  font-family: 'Merienda', cursive;
+}
+.empty{
+  height: 100px;
+}
+.empty-t{
+  height: 40px;
+  padding: 30px;
+  text-align: center;
+}
+.icon{
+  height: 12%;
+  width: 12%;
+  padding: 5px;
+}
+.icon-s{
+  height: 10%;
+  width: 10%;
+  position: relative;
+  bottom: 75px;
+  right: 100px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  background-color: white;
+  border-color:#189AB4 ;
+  text-align: center;
+  border-width: 10px;
+  width: 8%;
+
+  display: block;
+  unicode-bidi: isolate;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  overflow: hidden;
+}
+/*********************************div-up-top*************************/
+
+.navbar-brand{
+  font-family: 'Merienda', cursive;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  background-color: #189AB4;
+}
+.nav-item{
+  padding: 5px;
+}
+.nav-link{
+  font-size: 1rem;
+  font-family: 'Merienda', cursive;
+}
+.navbar{
+    background-color: #189AB4;
+    margin: 0 5;
+    height: 10%;
+  
+}
+
+/*********************************div-top***************************/
+.top-container{
+  text-align: center;
+  margin: 0;
+  background-color: #ddfaf8;
+  color: #189AB4;
+}
+.name{
+  height: 500px;
+  border-radius: 100%;
+}
+/*******************************div-mid****************************/
+.mid-container{
+  text-align: center;
+}
+/*****************************div-bottom***************************/
+.bottom-container{
+  text-align: center;
+}
+.books{
+  height: 5%;
+  width: 5%;
+  border-radius: 50%;
+  background-color: #75E6DA;
+  position: relative;
+  bottom: 90px;
+  left: 50px;
+}
+.pen{
+  height: 5%;
+  width: 5%;
+  border-radius: 50%;
+  background-color: #75E6DA;
+  position: relative;
+  bottom: 90px;
+  left: 50px;
+}
+.end-line{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 3%;
+  width: 3%;
+  background-color: white;
+  border-color: #75E6DA;
+  text-align: center;
+}
+/***********************************End***********************************/
+.end{
+  background-color: #189AB4;
+  height: 300px;
+  text-align: center;
+}
+.end-line-1{
+  color: #75E6DA;
+  font-family: 'Merienda', cursive;
+}
+.end-line-2{
+  color: white;
+  font-family: 'Merienda', cursive;
+}
+.button{
+  height: 10%;
+  width: 10%;
+  border-radius: 100%;
+}
+.mail{
+  height: 18%;
+  width:4%;
+  border-radius: 100%;
+}
+
+/*__________________________________________________________________________________________________________________________________________________*/
+/***********************************************************************Next*************************************************************************/
+/*__________________________________________________________________________________________________________________________________________________*/
+
+.nx{
+  color:#189AB4;
+  font-family: 'Merienda', cursive;
+  margin: 2%;
+  text-align: center;
+}
+.nx1{
+  color: #189AB4;
+  font-family: 'Merienda', cursive;
+  margin: 0;
+  text-align: center;
+  right: 500px;
+  font-size: 1.5em;
+}
+.next{
+  font-size: 0.9em;
+  font-family: 'Merienda', cursive;
+  text-align: center;
+  margin: 0;
+}
+.next1{
+  font-size: 1em;
+  font-family: 'Merienda', cursive;
+  text-align: center;
+  margin: 0;
+}
+.intro{
+  background-color: #189AB4;
+  color: white;
+  margin: 0;
+  font-family: 'Merienda', cursive;
+  text-align: center;
+}
+.main{
+  background-color: #ddfaf8;
+  margin: 0;
+  text-align: center;
+}
+.name-1{
+  height: 200px;
+  margin-bottom: 10px;
+  border-radius: 100%;
+}
+.iconn{
+  height: 4%;
+  width: 4%;
+  border-radius: 100%;
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+.ul{
+  font-size: 1em;
+  font-family: 'Merienda', cursive;
+  text-align: center;
+  margin: 0;
+  padding-left: 48%;
+  padding-right: 52%;
+}
+.endn{
+  background-color: #189AB4;
+  height: 150px;
+}
+.end-head{
+  color: #75E6DA;
+  font-family: 'Merienda', cursive;
+  margin: 0;
+  text-align: center;
+}
+.endln{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 3%;
+  background-color: #ddfaf8;
+  border-color: #75E6DA;
+}
+.insta{
+  height: 4%;
+  width: 1%;
+  position: relative;
+  top: 5px;
+}
+.n{
+  text-align: center;
+}
